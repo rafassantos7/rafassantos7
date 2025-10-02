@@ -56,11 +56,5 @@
 
 ## 📫 Onde me achar
 
-- Aqui no GitHub 👉 [@rafassantos7](https://github.com/rafassantos7)  
-- (se quiser, pode adicionar LinkedIn, Twitter ou outra rede social aqui)  
+- Aqui no GitHub 👉 [@rafassantos7](https://github.com/rafassantos7)
 
----
-
-<p align="center">
-  <i>"Um commit por dia mantém o bug na esquina... ou não 😅"</i>
-</p>
